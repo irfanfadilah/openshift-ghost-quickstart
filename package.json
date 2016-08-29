@@ -1,6 +1,6 @@
 {
     "name": "openshift-ghost-quickstart",
-    "description" : "Openshift Ghost Quickstart (SQLite)",
+    "description" : "Openshift Ghost Quickstart",
     "repository": {
         "type": "git",
         "url": "git://github.com/openshift-quickstart/openshift-ghost-quickstart.git"
@@ -15,6 +15,6 @@
         "iojs": "~1.2.0"
     },
     "dependencies": {
-        "ghost": "^0.7.0"
+        "ghost": "^0.9.0"
     }
 }
